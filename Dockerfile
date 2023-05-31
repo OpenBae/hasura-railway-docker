@@ -1,4 +1,4 @@
-FROM hasura/graphql-engine:v2.17.1
+FROM hasura/graphql-engine:v2.15.1
 
 
 CMD graphql-engine \
